@@ -1,0 +1,21 @@
+E:\VISUAL STUDIO PROJELER\c#\Proje Ödevi 2\Proje Ödevi 2\bin\Debug\net6.0-windows\Proje Ödevi 2.exe
+E:\VISUAL STUDIO PROJELER\c#\Proje Ödevi 2\Proje Ödevi 2\bin\Debug\net6.0-windows\Proje Ödevi 2.deps.json
+E:\VISUAL STUDIO PROJELER\c#\Proje Ödevi 2\Proje Ödevi 2\bin\Debug\net6.0-windows\Proje Ödevi 2.runtimeconfig.json
+E:\VISUAL STUDIO PROJELER\c#\Proje Ödevi 2\Proje Ödevi 2\bin\Debug\net6.0-windows\Proje Ödevi 2.dll
+E:\VISUAL STUDIO PROJELER\c#\Proje Ödevi 2\Proje Ödevi 2\bin\Debug\net6.0-windows\Proje Ödevi 2.pdb
+E:\VISUAL STUDIO PROJELER\c#\Proje Ödevi 2\Proje Ödevi 2\obj\Debug\net6.0-windows\Proje Ödevi 2.csproj.AssemblyReference.cache
+E:\VISUAL STUDIO PROJELER\c#\Proje Ödevi 2\Proje Ödevi 2\obj\Debug\net6.0-windows\Proje_Ödevi_2.Form1.resources
+E:\VISUAL STUDIO PROJELER\c#\Proje Ödevi 2\Proje Ödevi 2\obj\Debug\net6.0-windows\Proje_Ödevi_2.Properties.Resources.resources
+E:\VISUAL STUDIO PROJELER\c#\Proje Ödevi 2\Proje Ödevi 2\obj\Debug\net6.0-windows\Proje Ödevi 2.csproj.GenerateResource.cache
+E:\VISUAL STUDIO PROJELER\c#\Proje Ödevi 2\Proje Ödevi 2\obj\Debug\net6.0-windows\Proje Ödevi 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\VISUAL STUDIO PROJELER\c#\Proje Ödevi 2\Proje Ödevi 2\obj\Debug\net6.0-windows\Proje Ödevi 2.AssemblyInfoInputs.cache
+E:\VISUAL STUDIO PROJELER\c#\Proje Ödevi 2\Proje Ödevi 2\obj\Debug\net6.0-windows\Proje Ödevi 2.AssemblyInfo.cs
+E:\VISUAL STUDIO PROJELER\c#\Proje Ödevi 2\Proje Ödevi 2\obj\Debug\net6.0-windows\Proje Ödevi 2.csproj.CoreCompileInputs.cache
+E:\VISUAL STUDIO PROJELER\c#\Proje Ödevi 2\Proje Ödevi 2\obj\Debug\net6.0-windows\Proje Ödevi 2.dll
+E:\VISUAL STUDIO PROJELER\c#\Proje Ödevi 2\Proje Ödevi 2\obj\Debug\net6.0-windows\refint\Proje Ödevi 2.dll
+E:\VISUAL STUDIO PROJELER\c#\Proje Ödevi 2\Proje Ödevi 2\obj\Debug\net6.0-windows\Proje Ödevi 2.pdb
+E:\VISUAL STUDIO PROJELER\c#\Proje Ödevi 2\Proje Ödevi 2\obj\Debug\net6.0-windows\Proje Ödevi 2.genruntimeconfig.cache
+E:\VISUAL STUDIO PROJELER\c#\Proje Ödevi 2\Proje Ödevi 2\obj\Debug\net6.0-windows\ref\Proje Ödevi 2.dll
+E:\VISUAL STUDIO PROJELER\c#\Proje Ödevi 2\Proje Ödevi 2\obj\Debug\net6.0-windows\Proje_Ödevi_2.Form2.resources
+E:\VISUAL STUDIO PROJELER\c#\Proje Ödevi 2\Proje Ödevi 2\obj\Debug\net6.0-windows\Proje_Ödevi_2.Form3.resources
+E:\VISUAL STUDIO PROJELER\c#\Proje Ödevi 2\Proje Ödevi 2\obj\Debug\net6.0-windows\Proje_Ödevi_2.Form4.resources
